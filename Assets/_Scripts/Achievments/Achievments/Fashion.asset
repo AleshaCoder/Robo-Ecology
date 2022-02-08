@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27076862f36334c4c8081e7b340493a8, type: 3}
+  m_Name: Fashion
+  m_EditorClassIdentifier: 
+  _name: Fashion
+  _id: 7
+  _headerName: "\u041C\u043E\u0434\u043D\u0438\u043A"
+  _description: "\u041A\u0443\u043F\u0438 \u043D\u043E\u0432\u044B\u0439 \u043D\u0430\u0440\u044F\u0434"
+  _maxLevel: 4
+  _currentLevel: 0
+  _levelsInfo:
+  - _maxFullness: 1
+    _currentFullness: 0
+    _reward: 10
+  - _maxFullness: 2
+    _currentFullness: 0
+    _reward: 20
+  - _maxFullness: 5
+    _currentFullness: 0
+    _reward: 50
+  - _maxFullness: 7
+    _currentFullness: 0
+    _reward: 70
+  - _maxFullness: 9
+    _currentFullness: 0
+    _reward: 0
+  _end: 0
+  _flow: 1

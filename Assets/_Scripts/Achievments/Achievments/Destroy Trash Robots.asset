@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27076862f36334c4c8081e7b340493a8, type: 3}
+  m_Name: Destroy Trash Robots
+  m_EditorClassIdentifier: 
+  _name: TrashRobots
+  _id: 1
+  _headerName: "\u0417\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u044D\u043A\u043E\u043B\u043E\u0433\u0438\u0438"
+  _description: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 \u043C\u0443\u0441\u043E\u0440\u044F\u0449\u0438\u0445
+    \u0440\u043E\u0431\u043E\u0442\u043E\u0432"
+  _maxLevel: 4
+  _currentLevel: 0
+  _levelsInfo:
+  - _maxFullness: 1
+    _currentFullness: 0
+    _reward: 5
+  - _maxFullness: 5
+    _currentFullness: 0
+    _reward: 25
+  - _maxFullness: 10
+    _currentFullness: 0
+    _reward: 100
+  - _maxFullness: 25
+    _currentFullness: 0
+    _reward: 250
+  - _maxFullness: 100
+    _currentFullness: 0
+    _reward: 1000
+  _end: 0
+  _flow: 1
